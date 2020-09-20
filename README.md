@@ -1,5 +1,6 @@
 # Cross-sell-Hackathon
 A binary classification problem found on Analytics Vidhya Hackathon, evaluation is made on basis of roc_auc score.  Achieved score of 0.85780 with rank 160 in the competition.
+link: https://datahack.analyticsvidhya.com/contest/janatahack-cross-sell-prediction/#About
 
 # Problem Statement
 Your client is an Insurance company that has provided Health Insurance to its customers now they need your help in building a model to predict whether the policyholders (customers) from past year will also be interested in Vehicle Insurance provided by the company.
